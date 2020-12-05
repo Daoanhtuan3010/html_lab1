@@ -11,7 +11,7 @@ Họ và tên: Đào Anh Tuấn
 </head>
 <body>
     <h1>thông tin cá nhân</h1>
-    <img href="images/anh.jpg">
+    <img href="images/anhdd.jpg">
 </body>
 </html>
 ```
